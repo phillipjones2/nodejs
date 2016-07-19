@@ -1,0 +1,17 @@
+{
+  "name": "nodejs",
+  "description": "",
+  "main": "app.js",
+  "authors": [
+    "Phillip Jones <phillipemersonjones@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
