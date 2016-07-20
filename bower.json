@@ -13,5 +13,15 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "dependencies": {
+    "font-awesome": "^4.6.3"
+  },
+  "overrides": {
+    "font-awesome": {
+      "main": [
+        "css/font-awesome.min.css"
+      ]
+    }
+  }
 }
